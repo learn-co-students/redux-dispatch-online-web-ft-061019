@@ -10,4 +10,6 @@ function changeState(state, action){
 let state = {count: 0}
 let action = {type: 'INCREASE_COUNT'}
 
+
+
 changeState(state, action)
